@@ -1,0 +1,58 @@
+.name {
+  font-weight: 500;
+  font-size: 35px;
+  color: #515e63;
+}
+
+.small-name {
+  color: #515e63;
+}
+
+.header {
+  text-align: center;
+  color: #515e63;
+  font-style: italic;
+}
+
+.myc {
+  color: #515e63;
+}
+
+.skill-container > h3 {
+  text-align: left;
+  color: #948979;
+  font-style: italic;
+}
+
+.skill-container {
+  border: solid #a1a884;
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 16px;
+  margin-bottom: 8px;
+}
+
+.borbor {
+  margin: auto;
+  padding: 10px;
+  width: 500px;
+}
+
+.pic-left {
+  border-top-left-radius: 15px;
+  border-bottom-left-radius: 15px;
+}
+
+.pic-right {
+  border-top-right-radius: 15px;
+  border-bottom-right-radius: 15px;
+}
+
+.pic-leri {
+  background-color: #f8f4e1;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+}
